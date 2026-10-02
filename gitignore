@@ -1,0 +1,9 @@
+# Python virtual environment (each person creates their own from requirements.txt)
+.venv/
+
+# Files Python creates automatically
+__pycache__/
+*.pyc
+
+# Colab / Jupyter temporary files
+.ipynb_checkpoints/

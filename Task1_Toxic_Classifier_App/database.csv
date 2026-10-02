@@ -1,0 +1,13 @@
+﻿timestamp,input_type,input_text,classification
+2026-09-30 23:17:02,text,"You are an idiot, really","toxic, insult"
+2026-09-30 23:17:02,image,a dog running on the beach,non-toxic
+2026-09-30 23:17:12,text,"You are an idiot, really","toxic, insult"
+2026-09-30 23:17:12,image,a dog running on the beach,non-toxic
+2026-10-01 00:07:05,text,I will find you and kill you,"toxic, threat"
+2026-10-01 00:07:05,text,I will find you and kill you,"toxic, threat"
+2026-10-01 00:07:49,text,Edited from 92.24.199.233,non-toxic
+2026-10-01 00:09:32,image,a cat sitting on top of a table,non-toxic
+2026-10-01 00:11:15,image,a man holding a knife,non-toxic
+2026-10-01 00:12:30,image,a man is holding a knife in his hand,non-toxic
+2026-10-01 00:21:27,text,I will find you and kill you,"toxic, threat"
+2026-10-01 00:22:11,image,a cat sitting on top of a table,non-toxic

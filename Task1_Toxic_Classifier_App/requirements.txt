@@ -1,0 +1,8 @@
+# Python 3.10-3.13 (TensorFlow 2.20 does not support Python 3.14)
+tensorflow==2.20.0
+keras==3.13.2
+pandas==3.0.6
+pillow==12.3.0
+torch==2.14.1
+transformers==5.18.0
+streamlit==1.64.0
